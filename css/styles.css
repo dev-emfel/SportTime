@@ -174,7 +174,7 @@ section {
 .badge {
   display: inline-block;
   align-self: flex-start;
-  background-color: rgba(56, 189, 248, 0.15);
+  background-color: rgba(56, 189, 247, 0.15);
   color: #38bdf8;
   padding: 0.3rem 0.8rem;
   border-radius: 999px;
